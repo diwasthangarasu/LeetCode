@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/diwasthangarasu/LeetCode/tree/master/0389-find-the-difference) |
 | [0742-to-lower-case](https://github.com/diwasthangarasu/LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/diwasthangarasu/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/diwasthangarasu/LeetCode/tree/master/1205-defanging-an-ip-address) |
@@ -23,6 +24,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/diwasthangarasu/LeetCode/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/diwasthangarasu/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/diwasthangarasu/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/diwasthangarasu/LeetCode/tree/master/0389-find-the-difference) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/diwasthangarasu/LeetCode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
