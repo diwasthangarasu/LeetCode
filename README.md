@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/diwasthangarasu/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0238-product-of-array-except-self](https://github.com/diwasthangarasu/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1241-decompress-run-length-encoded-list](https://github.com/diwasthangarasu/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/diwasthangarasu/LeetCode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 ## String
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/diwasthangarasu/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/diwasthangarasu/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
