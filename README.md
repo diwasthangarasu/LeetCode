@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/diwasthangarasu/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1241-decompress-run-length-encoded-list](https://github.com/diwasthangarasu/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/diwasthangarasu/LeetCode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
+| [1651-shuffle-string](https://github.com/diwasthangarasu/LeetCode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/diwasthangarasu/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## String
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/diwasthangarasu/LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/diwasthangarasu/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/diwasthangarasu/LeetCode/tree/master/1205-defanging-an-ip-address) |
+| [1651-shuffle-string](https://github.com/diwasthangarasu/LeetCode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/diwasthangarasu/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/diwasthangarasu/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/diwasthangarasu/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
