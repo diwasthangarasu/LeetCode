@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1241-decompress-run-length-encoded-list](https://github.com/diwasthangarasu/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/diwasthangarasu/LeetCode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1651-shuffle-string](https://github.com/diwasthangarasu/LeetCode/tree/master/1651-shuffle-string) |
+| [1677-matrix-diagonal-sum](https://github.com/diwasthangarasu/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/diwasthangarasu/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1848-sum-of-unique-elements](https://github.com/diwasthangarasu/LeetCode/tree/master/1848-sum-of-unique-elements) |
 ## String
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1848-sum-of-unique-elements](https://github.com/diwasthangarasu/LeetCode/tree/master/1848-sum-of-unique-elements) |
+## Matrix
+|  |
+| ------- |
+| [1677-matrix-diagonal-sum](https://github.com/diwasthangarasu/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
