@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/diwasthangarasu/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0238-product-of-array-except-self](https://github.com/diwasthangarasu/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0566-reshape-the-matrix](https://github.com/diwasthangarasu/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [1241-decompress-run-length-encoded-list](https://github.com/diwasthangarasu/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/diwasthangarasu/LeetCode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1651-shuffle-string](https://github.com/diwasthangarasu/LeetCode/tree/master/1651-shuffle-string) |
@@ -71,5 +72,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/diwasthangarasu/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/diwasthangarasu/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+## Simulation
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/diwasthangarasu/LeetCode/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
