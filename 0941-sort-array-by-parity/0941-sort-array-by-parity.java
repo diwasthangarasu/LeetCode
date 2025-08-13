@@ -8,7 +8,6 @@ class Solution {
                 nums[r]=temp;
                 l++;
                 r--;
-                continue;
             }
             if(nums[l]%2==0) l++;
             if(nums[r]%2!=0) r--;
