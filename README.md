@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/diwasthangarasu/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0238-product-of-array-except-self](https://github.com/diwasthangarasu/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0566-reshape-the-matrix](https://github.com/diwasthangarasu/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0941-sort-array-by-parity](https://github.com/diwasthangarasu/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1241-decompress-run-length-encoded-list](https://github.com/diwasthangarasu/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/diwasthangarasu/LeetCode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1651-shuffle-string](https://github.com/diwasthangarasu/LeetCode/tree/master/1651-shuffle-string) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/diwasthangarasu/LeetCode/tree/master/0389-find-the-difference) |
+| [0941-sort-array-by-parity](https://github.com/diwasthangarasu/LeetCode/tree/master/0941-sort-array-by-parity) |
 ## Math
 |  |
 | ------- |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/diwasthangarasu/LeetCode/tree/master/0566-reshape-the-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0941-sort-array-by-parity](https://github.com/diwasthangarasu/LeetCode/tree/master/0941-sort-array-by-parity) |
 <!---LeetCode Topics End-->
