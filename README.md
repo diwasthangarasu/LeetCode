@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/diwasthangarasu/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0039-combination-sum](https://github.com/diwasthangarasu/LeetCode/tree/master/0039-combination-sum) |
 | [0238-product-of-array-except-self](https://github.com/diwasthangarasu/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0566-reshape-the-matrix](https://github.com/diwasthangarasu/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0941-sort-array-by-parity](https://github.com/diwasthangarasu/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/diwasthangarasu/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/diwasthangarasu/LeetCode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
