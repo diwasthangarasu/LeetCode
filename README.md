@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/diwasthangarasu/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1241-decompress-run-length-encoded-list](https://github.com/diwasthangarasu/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/diwasthangarasu/LeetCode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
+| [1635-number-of-good-pairs](https://github.com/diwasthangarasu/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/diwasthangarasu/LeetCode/tree/master/1651-shuffle-string) |
 | [1677-matrix-diagonal-sum](https://github.com/diwasthangarasu/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/diwasthangarasu/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/diwasthangarasu/LeetCode/tree/master/0013-roman-to-integer) |
 | [0389-find-the-difference](https://github.com/diwasthangarasu/LeetCode/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/diwasthangarasu/LeetCode/tree/master/0782-jewels-and-stones) |
+| [1635-number-of-good-pairs](https://github.com/diwasthangarasu/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/diwasthangarasu/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/diwasthangarasu/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/diwasthangarasu/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/diwasthangarasu/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/diwasthangarasu/LeetCode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/diwasthangarasu/LeetCode/tree/master/0069-sqrtx) |
+| [1635-number-of-good-pairs](https://github.com/diwasthangarasu/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1635-number-of-good-pairs](https://github.com/diwasthangarasu/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/diwasthangarasu/LeetCode/tree/master/1848-sum-of-unique-elements) |
 ## Matrix
 |  |
