@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/diwasthangarasu/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/diwasthangarasu/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1848-sum-of-unique-elements](https://github.com/diwasthangarasu/LeetCode/tree/master/1848-sum-of-unique-elements) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/diwasthangarasu/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/diwasthangarasu/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## String
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/diwasthangarasu/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/diwasthangarasu/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/diwasthangarasu/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/diwasthangarasu/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/diwasthangarasu/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Bit Manipulation
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/diwasthangarasu/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/diwasthangarasu/LeetCode/tree/master/0189-rotate-array) |
 | [1635-number-of-good-pairs](https://github.com/diwasthangarasu/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/diwasthangarasu/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/diwasthangarasu/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/diwasthangarasu/LeetCode/tree/master/1848-sum-of-unique-elements) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/diwasthangarasu/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Matrix
 |  |
 | ------- |
@@ -116,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/diwasthangarasu/LeetCode/tree/master/0039-combination-sum) |
+## Number Theory
+|  |
+| ------- |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/diwasthangarasu/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 <!---LeetCode Topics End-->
