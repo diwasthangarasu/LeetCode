@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/diwasthangarasu/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/diwasthangarasu/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/diwasthangarasu/LeetCode/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/diwasthangarasu/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/diwasthangarasu/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/diwasthangarasu/LeetCode/tree/master/0283-move-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/diwasthangarasu/LeetCode/tree/master/0566-reshape-the-matrix) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/diwasthangarasu/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/diwasthangarasu/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/diwasthangarasu/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/diwasthangarasu/LeetCode/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/diwasthangarasu/LeetCode/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/diwasthangarasu/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/diwasthangarasu/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/diwasthangarasu/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/diwasthangarasu/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/diwasthangarasu/LeetCode/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/diwasthangarasu/LeetCode/tree/master/0389-find-the-difference) |
 | [0941-sort-array-by-parity](https://github.com/diwasthangarasu/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/diwasthangarasu/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/diwasthangarasu/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/diwasthangarasu/LeetCode/tree/master/0229-majority-element-ii) |
 | [1635-number-of-good-pairs](https://github.com/diwasthangarasu/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/diwasthangarasu/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/diwasthangarasu/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
