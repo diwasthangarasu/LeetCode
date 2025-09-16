@@ -15,7 +15,7 @@ public:
             s.push(nums2[i]);
         }
         for(int i=0;i<n;i++){
-            if (mp.find(nums1[i]) != mp.end()) {
+            if (mp.contains(nums1[i])) {
                 res[i] = mp[nums1[i]];
             }
         }
