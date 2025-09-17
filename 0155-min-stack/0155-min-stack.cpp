@@ -10,7 +10,8 @@ public:
             st.push({val,val});
         }
         else {
-            st.push({val,min(val,st.top().second)});
+            pair <int,int> top = st.top();
+            st.push({val,min(val,top.second)});
         }
     }
     
@@ -19,11 +20,13 @@ public:
     }
     
     int top() {
-        return st.top().first;
+        pair <int,int> top = st.top();
+        return top.first;
     }
     
     int getMin() {
-        return st.top().second;
+        pair <int,int> top = st.top();
+        return top.second;
     }
 };
 
