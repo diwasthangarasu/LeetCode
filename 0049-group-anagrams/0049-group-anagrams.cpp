@@ -10,8 +10,7 @@ public:
                 mp[s].push_back(ss);
             }
             else{
-                vector<string> v;
-                v.push_back(ss);
+                vector<string> v={ss};
                 mp[s]=v;
             } 
         }
