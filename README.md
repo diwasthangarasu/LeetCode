@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/diwasthangarasu/LeetCode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/diwasthangarasu/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/diwasthangarasu/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/diwasthangarasu/LeetCode/tree/master/0389-find-the-difference) |
 | [0742-to-lower-case](https://github.com/diwasthangarasu/LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/diwasthangarasu/LeetCode/tree/master/0782-jewels-and-stones) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/diwasthangarasu/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/diwasthangarasu/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/diwasthangarasu/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/diwasthangarasu/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/diwasthangarasu/LeetCode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/diwasthangarasu/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0782-jewels-and-stones](https://github.com/diwasthangarasu/LeetCode/tree/master/0782-jewels-and-stones) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/diwasthangarasu/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/diwasthangarasu/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/diwasthangarasu/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/diwasthangarasu/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/diwasthangarasu/LeetCode/tree/master/0389-find-the-difference) |
 | [0917-boats-to-save-people](https://github.com/diwasthangarasu/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/diwasthangarasu/LeetCode/tree/master/0941-sort-array-by-parity) |
