@@ -5,17 +5,18 @@ public:
         vector<int> res;
         int n = nums.size();
 
-        for (int r = 0; r < n; r++) {
+        for (int r = 0,l=0; r < n; r++) {
             while (!a.empty() && nums[r] >= nums[a.back()]) {
                 a.pop_back();
             }
             a.push_back(r);
-            if (a.front() <= r - k) {
+            if (a.front() < l) {
                 a.pop_front();
+                
             }
-
-            if (r >= k - 1) {
+            if (r-l+1==k) {
                 res.push_back(nums[a.front()]);
+                l++;
             }
         }
         return res;
