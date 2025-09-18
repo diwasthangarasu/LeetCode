@@ -12,7 +12,6 @@ public:
             a.push_back(r);
             
             if (r-l+1==k) {
-                
                 if (a.front() < l) {
                     a.pop_front();   
                 }
