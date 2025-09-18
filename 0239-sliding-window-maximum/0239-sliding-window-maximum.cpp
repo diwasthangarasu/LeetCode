@@ -10,10 +10,12 @@ public:
                 a.pop_back();
             }
             a.push_back(r);
-            if (a.front() < l) {
-                a.pop_front();   
-            }
+            
             if (r-l+1==k) {
+                
+                if (a.front() < l) {
+                    a.pop_front();   
+                }
                 res.push_back(nums[a.front()]);
                 l++;
             }
