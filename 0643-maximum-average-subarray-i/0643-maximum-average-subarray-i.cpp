@@ -7,8 +7,7 @@ public:
         for(l=r=0;r<n;r++){
             av+=nums[r];
             if(r-l+1==k){
-                double a=av/k;
-                m=max(m,a);
+                m=max(m,av/k);
                 av-=nums[l++];
             }
         }
