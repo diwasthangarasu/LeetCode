@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/diwasthangarasu/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/diwasthangarasu/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/diwasthangarasu/LeetCode/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/diwasthangarasu/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/diwasthangarasu/LeetCode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/diwasthangarasu/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/diwasthangarasu/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/diwasthangarasu/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0566-reshape-the-matrix](https://github.com/diwasthangarasu/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/diwasthangarasu/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 ## Simulation
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/diwasthangarasu/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/diwasthangarasu/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/diwasthangarasu/LeetCode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/diwasthangarasu/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/diwasthangarasu/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/diwasthangarasu/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
