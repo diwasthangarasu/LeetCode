@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/diwasthangarasu/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/diwasthangarasu/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/diwasthangarasu/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/diwasthangarasu/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/diwasthangarasu/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/diwasthangarasu/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/diwasthangarasu/LeetCode/tree/master/0242-valid-anagram) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/diwasthangarasu/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/diwasthangarasu/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/diwasthangarasu/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/diwasthangarasu/LeetCode/tree/master/0202-happy-number) |
 | [1635-number-of-good-pairs](https://github.com/diwasthangarasu/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/diwasthangarasu/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Binary Search
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/diwasthangarasu/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/diwasthangarasu/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/diwasthangarasu/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/diwasthangarasu/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/diwasthangarasu/LeetCode/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/diwasthangarasu/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/diwasthangarasu/LeetCode/tree/master/0917-boats-to-save-people) |
