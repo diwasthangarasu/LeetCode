@@ -3,42 +3,51 @@ class Solution {
 
         if (head == null || left == right) return head;
 
-        ListNode leftPrev = null;   // node before left
-        ListNode leftNode = head;   // node at left
-        ListNode rightNode = head;  // node at right
-        ListNode rightNext = null;  // node after right
+        int count = 1;
+        ListNode prev = null;
+        ListNode curr = head;
+        ListNode start = null;
 
-        int i = 1;
-        ListNode temp = head;
-        while (temp != null) {
+        // Move until we reach right
+        while (curr != null && count <= right) {
 
-            if (i == left - 1)
-                leftPrev = temp;
-
-            if (i == left)
-                leftNode = temp;
-
-            if (i == right) {
-                rightNode = temp;
-                rightNext = temp.next;
-                rightNode.next = null;   // cut
+            if (count == left - 1) {   // node before left
+                prev = curr;
             }
 
-            temp = temp.next;
-            i++;
+            if (count == left) {       // node at left
+                start = curr;
+            }
+
+            curr = curr.next;
+            count++;
         }
 
-        ListNode reversedHead = reverseSegment(leftNode);
+        // curr is now at right+1
+        ListNode rightNext = curr;
 
-        if (leftPrev == null)
-            head = reversedHead;
-        else
-            leftPrev.next = reversedHead;
+        // Cut the list
+        ListNode rightNode = start;
+        while (rightNode.next != rightNext) {
+            rightNode = rightNode.next;
+        }
+        rightNode.next = null;
 
+        // Reverse [start ... rightNode]
+        ListNode reversedHead = reverseSegment(start);
+
+        // Connect prev to reversed head
+        if (prev != null) {
+            prev.next = reversedHead;
+        } else {
+            head = reversedHead; // left == 1 case
+        }
+
+        // Connect end of reversed segment to rightNext
         ListNode tail = reversedHead;
-        while (tail.next != null)
+        while (tail.next != null) {
             tail = tail.next;
-
+        }
         tail.next = rightNext;
 
         return head;
@@ -47,15 +56,14 @@ class Solution {
     private ListNode reverseSegment(ListNode head) {
         ListNode prev = null;
         ListNode curr = head;
-        ListNode temp;
 
         while (curr != null) {
-            temp = curr.next;
+            ListNode temp = curr.next;
             curr.next = prev;
             prev = curr;
             curr = temp;
         }
 
-        return prev;
+        return prev; // new head of reversed part
     }
 }
