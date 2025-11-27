@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/diwasthangarasu/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/diwasthangarasu/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/diwasthangarasu/LeetCode/tree/master/0202-happy-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/diwasthangarasu/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/diwasthangarasu/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/diwasthangarasu/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Binary Search
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/diwasthangarasu/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/diwasthangarasu/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/diwasthangarasu/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/diwasthangarasu/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
