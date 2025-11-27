@@ -3,14 +3,14 @@ class Solution {
         ListNode prev = null;
         ListNode curr = head;
         ListNode temp;
-
-        while (curr != null) {
-            temp = curr.next;   
-            curr.next = prev; 
-            prev = curr;       
-            curr = temp;      
+        while(curr!=null){
+            temp=curr.next;
+            curr.next=prev;
+            prev=curr;
+            curr=temp;
         }
+        return prev;
 
-        return prev;  
+        
     }
 }
