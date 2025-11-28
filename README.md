@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/diwasthangarasu/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/diwasthangarasu/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/diwasthangarasu/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/diwasthangarasu/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/diwasthangarasu/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/diwasthangarasu/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/diwasthangarasu/LeetCode/tree/master/0202-happy-number) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/diwasthangarasu/LeetCode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/diwasthangarasu/LeetCode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/diwasthangarasu/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/diwasthangarasu/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/diwasthangarasu/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/diwasthangarasu/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/diwasthangarasu/LeetCode/tree/master/0189-rotate-array) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/diwasthangarasu/LeetCode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/diwasthangarasu/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/diwasthangarasu/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/diwasthangarasu/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/diwasthangarasu/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/diwasthangarasu/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/diwasthangarasu/LeetCode/tree/master/0206-reverse-linked-list) |
