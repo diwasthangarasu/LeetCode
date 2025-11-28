@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/diwasthangarasu/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/diwasthangarasu/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/diwasthangarasu/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/diwasthangarasu/LeetCode/tree/master/2074-reverse-nodes-in-even-length-groups) |
 ## Recursion
 |  |
 | ------- |
