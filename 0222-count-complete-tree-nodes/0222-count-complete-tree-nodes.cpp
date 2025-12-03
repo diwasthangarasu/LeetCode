@@ -12,14 +12,10 @@
 class Solution {
 public:
     int countNodes(TreeNode* root) {
-        int c=0;
-        count(root,c);
-        return c;
+        return count(root);
     }
-    void count(TreeNode* curr,int& c){
-        if(curr==NULL) return;
-        c++;
-        count(curr->left,c);
-        count(curr->right,c);
+    int count(TreeNode* curr){
+        if(curr==NULL) return 0;
+        return count(curr->left)+1+count(curr->right);
     }
 };
