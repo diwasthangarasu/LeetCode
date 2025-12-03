@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/diwasthangarasu/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1848-sum-of-unique-elements](https://github.com/diwasthangarasu/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/diwasthangarasu/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/diwasthangarasu/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/diwasthangarasu/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/diwasthangarasu/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/diwasthangarasu/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/diwasthangarasu/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/diwasthangarasu/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/diwasthangarasu/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/diwasthangarasu/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/diwasthangarasu/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/diwasthangarasu/LeetCode/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/diwasthangarasu/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/diwasthangarasu/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/diwasthangarasu/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Two Pointers
 |  |
