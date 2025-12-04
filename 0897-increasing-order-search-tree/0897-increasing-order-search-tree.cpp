@@ -1,12 +1,10 @@
 class Solution {
 public:
-    TreeNode* curr;  
-
+    TreeNode* curr=new TreeNode(0);  
+    TreeNode* res=curr;
     TreeNode* increasingBST(TreeNode* root) {
-        TreeNode* dummy = new TreeNode(0);  
-        curr = dummy;
         inorder(root);
-        return dummy->right; 
+        return res->right; 
     }
 
     void inorder(TreeNode* root) {
