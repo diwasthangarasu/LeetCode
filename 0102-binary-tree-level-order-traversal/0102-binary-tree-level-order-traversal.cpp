@@ -12,12 +12,12 @@ public:
             vector<int> level;
 
             while (size--) {
-                TreeNode* node = q.front();
-                q.pop();
-                level.push_back(node->val);
+                
+                level.push_back(q.front()->val);
 
-                if (node->left) q.push(node->left);
-                if (node->right) q.push(node->right);
+                if (q.front()->left) q.push(q.front()->left);
+                if (q.front()->right) q.push(q.front()->right);
+                q.pop();
             }
 
             res.push_back(level);
