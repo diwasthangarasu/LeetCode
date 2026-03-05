@@ -21,8 +21,6 @@ class Solution {
                 count = 1;
             }
         }
-
-        // handle last group
         chars[index++] = flag;
 
         if (count > 1) {
