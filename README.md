@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/diwasthangarasu/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/diwasthangarasu/LeetCode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/diwasthangarasu/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/diwasthangarasu/LeetCode/tree/master/0443-string-compression) |
 | [0742-to-lower-case](https://github.com/diwasthangarasu/LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/diwasthangarasu/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1078-remove-outermost-parentheses](https://github.com/diwasthangarasu/LeetCode/tree/master/1078-remove-outermost-parentheses) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/diwasthangarasu/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/diwasthangarasu/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/diwasthangarasu/LeetCode/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/diwasthangarasu/LeetCode/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/diwasthangarasu/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/diwasthangarasu/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/diwasthangarasu/LeetCode/tree/master/0917-boats-to-save-people) |
